@@ -1,3 +1,18 @@
+--GPT-1
+
+Please fill best bid letter with following type.
+Only technical importance sentence.
+I will  using --In this sentence, should contain a technical sentence about how this task will be done, using what technology, and in what way and any other sentences that are not technical, such as a kind of oath or resolution(for example : user-friendly), should not be included..
+
+
+Hi.
+I am a licensed Structural & Civil engineer in FL, US and am familiar with local building codes.
+I do full scale structural and foundation design of all types of building and non-building structures.
+I've checked your project detail carefully and  I will using.
+I guarantee you will get more than you expected.
+Feel free to contact me, I am here to help.
+Regards
+
 
 ----Civil-1
 
