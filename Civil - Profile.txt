@@ -42,6 +42,7 @@ Yurii Borisovich Holodnyi
 Building Architecture
 Building Surveying
 Building Design
+Building Engineering
 Architectural Rendering
 Architectural Engineering
 Civil Engineering
@@ -50,7 +51,6 @@ Structural Engineering
 Construction Engineering
 Plumbing
 HVAC
-Building Engineering
 Mechanical Engineering
 Mechanical Design
 Electrical Engineering
